@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "0.0.1",
+  "authors": [
+    "Alexey Khoroshev <aleksxor@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "WTFPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "react": "~0.12.1"
+  }
+}
